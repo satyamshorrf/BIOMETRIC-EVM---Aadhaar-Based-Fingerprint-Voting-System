@@ -1,0 +1,25 @@
+#FB7D5D
+
+Mixed #FFF3F3
+#FB7D5D
+
+#060403
+
+#15100C
+
+Big Text
+Funnel Display
+
+H1 - Heading - 90px
+H2 - Heading - 55px
+H3 - Heading - 36px
+H4 - Heading - 24px
+
+Regular text
+Funnel Display / Poppins
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789 !@#$%^&*()
+H5 - Heading - 20px
+H6 - Heading - 18px
+Paragraph - 16px
