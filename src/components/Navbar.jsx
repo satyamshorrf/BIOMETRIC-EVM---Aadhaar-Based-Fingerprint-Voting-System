@@ -138,7 +138,7 @@ const Navbar = () => {
             <Link to="/features" className="block">Features</Link>
             <Link to="/architecture" className="block">Architecture</Link>
             <Link to="/team" className="block">Team</Link>
-            <Link to="/contact" className="block">Contact</Link>
+            <Link to="/gallery" className="block">Contact</Link>
 
       
             <div>
