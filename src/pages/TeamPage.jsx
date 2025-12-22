@@ -1,22 +1,26 @@
 import { motion } from "framer-motion";
-import { Linkedin, Github } from "lucide-react";
+import { Linkedin, Github, Twitter,  } from "lucide-react";
 
 const teamMembers = [
   {
     name: "Cadet Satyam Kumar",
     role: "Team Leader | BR2024SDIA1030009",
-    image: "https://via.placeholder.com/300",
+    image: "/imgs/profile3.jpeg",
     bio: "Lead developer, system architect and innovation head responsible for biometric verification and EVM workflow integration.",
-    linkedin: "#",
-    github: "#",
+    linkedin: "https://www.linkedin.com/in/satyamshorrf",
+    github: "https://github.com/satyamshorrf",
+    Twitter: "https://twitter.com/satyamshorrf",
+
   },
   {
     name: "Cadet Deepak Kumar",
     role: "Team Member | BR2025SDIA1030007",
-    image: "https://via.placeholder.com/300",
+    image: "/imgs/deepak.jpeg",
     bio: "Hardware integration expert managing Arduino, fingerprint module setup, and data communication systems.",
-    linkedin: "#",
-    github: "#",
+    linkedin: "/https://www.linkedin.com/in/deepak-kumar-5b7245234/",
+    github: "/https://github.com/deepak-kumar-1",
+    Twitter: "/https://twitter.com/deepak_kumar_1",
+
   },
 ];
 
@@ -77,6 +81,14 @@ export default function TeamPage() {
                 hover:bg-purple-600 hover:border-purple-600 transition"
               >
                 <Github size={20} />
+              </a>
+
+              <a
+                href={member.github}
+                className="p-2 bg-[#262626] border border-[#3f3f3f] rounded-full 
+                hover:bg-purple-600 hover:border-purple-600 transition"
+              >
+                <Twitter size={20} />
               </a>
             </div>
           </motion.div>

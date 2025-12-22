@@ -77,8 +77,8 @@ const Navbar = () => {
           </motion.div>
 
           <motion.div whileHover={{ y: -2 }}>
-            <Link to="/contact" className="hover:text-blue-300 duration-200">
-              Contact
+            <Link to="/gallery" className="hover:text-blue-300 duration-200">
+              Gallery
             </Link>
           </motion.div>
 

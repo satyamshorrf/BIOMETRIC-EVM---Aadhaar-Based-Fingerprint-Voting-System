@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, Mail } from "lucide-react";
+import { Facebook, Instagram, Linkedin, Mail, Twitch, Twitter } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -54,28 +54,28 @@ export default function Footer() {
           </h3>
           <div className="flex items-center gap-4 mt-2">
             <a
-              href="#"
+              href="https://www.facebook.com/satyamshorrf"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition"
             >
               <Facebook className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/satyamshorrf/"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition"
             >
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/satyamshorrf"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition"
             >
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:contact@biometricevm.in"
+              href="https://twiter.com/satyamshorrf"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition"
             >
-              <Mail className="w-5 h-5" />
+              <Twitter className="w-5 h-5" />
             </a>
           </div>
         </div>
@@ -96,7 +96,7 @@ export default function Footer() {
 
   {/* Disclaimer */}
   <p className="text-gray-500 text-xs mt-3 max-w-2xl mx-auto">
-    ⚠️ <strong>Disclaimer:</strong> This project uses UIDAI and Election Commission of India website ideas purely for educational and idea-innovation purposes only. It is a student prototype project under 17 Bihar Battalion NCC, Saharsa, officially developed by a cadet from T.P. College, Madhepura. This project is not affiliated with UIDAI or the Election Commission of India in any official capacity.
+    ⚠️ <strong>Disclaimer:</strong> This project is for educational and idea-innovation purposes only. It is a student prototype project under 17 Bihar Battalion NCC, Saharsa, officially developed by a cadet from T.P. College, Madhepura. This project is not affiliated with UIDAI or the Election Commission of India in any official capacity.
   </p>
 </div>
 

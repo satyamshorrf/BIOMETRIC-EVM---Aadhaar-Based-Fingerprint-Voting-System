@@ -17,6 +17,7 @@ import TestimonialPage from "./pages/TestimonialPage";
 
 import BlogPage from "./pages/BlogPage";
 import FAQPage from "./pages/FaqPage";
+import GalleryPage from "./pages/GalleryPage";
 
 import AboutUsPage from "./pages/AboutUsPage";
 import ContactPage from "./pages/ContactPage";
@@ -49,6 +50,7 @@ function App() {
 
           <Route path="/about-us" element={<AboutUsPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/gallery" element={<GalleryPage />} />
           <Route path="/future-development" element={<FutureDevelopmentPage />} />
 
           {/* 404 */}

@@ -53,12 +53,12 @@ export default function ContactPage() {
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <Phone className="text-[#f7b89e]" size={24} />
-              <p className="text-sm">+91 9876543210</p>
+              <p className="text-sm">+91 123 456 789</p>
             </div>
 
             <div className="flex items-center gap-4">
               <Mail className="text-[#f7b89e]" size={24} />
-              <p className="text-sm">support@yourproject.in</p>
+              <p className="text-sm">support@example.in</p>
             </div>
 
             <div className="flex items-center gap-4">
