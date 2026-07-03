@@ -16,7 +16,7 @@ const teamMembers = [
     name: "Cadet Deepak Kumar",
     role: "Team Member | BR2025SDIA1030007",
     image: "/imgs/deepak.jpeg",
-    bio: "Hardware integration expert managing Arduino, fingerprint module setup, and data communication systems.",
+    bio: "Presentation and documentation coordinator responsible for designing the project PPT and assisting the Team Leader with presentation delivery.",
     linkedin: "/https://www.linkedin.com/in/deepak-kumar-5b7245234/",
     github: "/https://github.com/deepak-kumar-1",
     Twitter: "/https://twitter.com/deepak_kumar_1",
